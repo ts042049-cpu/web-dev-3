@@ -1,0 +1,13 @@
+{
+  "name": "smart-utility-toolkit-esm",
+  "version": "1.0.0",
+  "description": "Smart Utility Toolkit - ES Modules Version",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
